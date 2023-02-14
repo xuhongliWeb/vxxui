@@ -1,5 +1,5 @@
 export default {
-  base: process.env.NODE_ENV === 'production' ? '/vxxui/' : '/',
+  base: '/vxxui/',
   themeConfig: {
     siteTitle: false,
     logo: "/logo.png",
